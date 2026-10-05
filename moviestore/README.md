@@ -2,7 +2,7 @@
 Project 1 (CS2340), Computational Media @ Georgia Tech
 
 ## Information
-A solo project created to familiarize myself with Django and programming in Python. This project allows users to view movies from a website, write and edit their own reviews, as well as check out via a cart system and login/signup with proper SQLite database verification (including SHA256 password hashing
+A solo project created to familiarize myself with Django and programming in Python using the book, "Django 5 for the Impatient". This project allows users to view movies from a website, write and edit their own reviews, as well as check out via a cart system and login/signup with proper SQLite database verification (including SHA256 password hashing
 
 You can view the official demo here: https://carsonstary.pythonanywhere.com/ 
 
