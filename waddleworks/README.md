@@ -1,4 +1,4 @@
-# Quackify
+# WaddleWorks
 Project 3 (CS1332), Computational Media @ Georgia Tech
 
 ## Information
