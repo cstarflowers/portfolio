@@ -7,6 +7,8 @@ Welcome to my digital portfolio! In this repository, you'll find my resume and s
 
 **Quackify:** A project created for GT CS1332: Data Structures & Algorithms. An alternative duck-themed version of Spotify created in Java! It has a fun and easy-to-use user interface, as well as options to skip, play, and shuffle songs just like the real music player. 
 
-**WaddleWorks:** A project created for GT CS1332: Data Structures & Algorithms. Uses popular graphing algorithms -- Dijkstra's, Kruskal's, etc. to allow users to traverse a city map while avoiding particular unfavorable paths, overly long roads, and similar.
+**WaddleWorks:** A project created for GT CS1332: Data Structures & Algorithms. Uses popular graphing algorithms -- Dijkstra's, Kruskal's, etc. -- to allow users to traverse a city map while avoiding particular unfavorable paths, overly long roads, and similar.
+
+**Movie Store:** A web project created for GT CS2340: Objects and Design. This website utilizes Django and PythonAnywhere to create a functional website for housing popular films, movie reviews, and allowing users to purchase new films for view! This project was created with the book "Django 5 for the Impatient."
 
 Thanks so much!
