@@ -9,6 +9,6 @@ Welcome to my digital portfolio! In this repository, you'll find my resume and s
 
 **WaddleWorks:** A project created for GT CS1332: Data Structures & Algorithms. Uses popular graphing algorithms -- Dijkstra's, Kruskal's, etc. -- to allow users to traverse a city map while avoiding particular unfavorable paths, overly long roads, and similar.
 
-**Movie Store:** A web project created for GT CS2340: Objects and Design. This website utilizes Django and PythonAnywhere to create a functional website for housing popular films, movie reviews, and allowing users to purchase new films for view! This project was created with the book "Django 5 for the Impatient."
+**Movie Store:** A web project created for GT CS2340: Objects and Design. This website utilizes Django and PythonAnywhere to create a functional website for housing popular films, movie reviews, and allowing users to purchase new films for view! This project was created with the book "Django 5 for the Impatient," and is publicly available [here](https://github.com/cstarflowers/moviestore).
 
 Thanks so much!
