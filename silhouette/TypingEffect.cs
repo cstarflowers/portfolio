@@ -2,7 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-
+/* TYPING EFFECTS (C#)
+This piece of code is extracted from the text renderer I created for Silhouette. This code is specifically ran anytime the user engages with an enemy for the first time, which will begin a brief line of dialogue before they actually engage in battle. Typically, this dialogue has multiple versions or lines and can change each time its run, depending on when a reset is called. 
+*/
 public class TypingEffect : MonoBehaviour {
     private float delay = 0.04f;
     private string currentText = " ";
